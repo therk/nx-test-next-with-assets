@@ -9,7 +9,7 @@ export function About(props: AboutProps) {
   return (
     <div>
       <h1>Welcome to about!</h1>
-      <img src="/assets/ui/abbout.png" alt="About"></img>
+      <img src="/assets/ui/about.png" alt="About"></img>
     </div>
   );
 }
